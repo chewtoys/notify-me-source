@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"feed_suggested vertical_cards"},_vm._l((_vm.suggested),function(i,index){return _c('div',{key:index,staticClass:"vertical_card"},[_c('span',{on:{"click":function($event){_vm.openChannel(i)}}},[_c('div',{staticClass:"avatar",style:({ 'background-image': 'url(' + i.avatar + ')' })}),_c('div',{staticClass:"meta"},[_c('div',{staticClass:"displayName"},[_vm._v(_vm._s(_vm.trimmedString(i.displayName, 20)))]),(i.verified)?_c('span',{staticClass:"verified verified_tick"}):_vm._e()])]),_c('button',{staticClass:"coolbtn sub_button unsubscribed",class:{ 'subscriptionWaiting': _vm.subscriptionWaiting },attrs:{"type":"button"},on:{"click":function($event){_vm.createSubscription(i)}}},[_vm._v("\n\t\tSUBSCRIBE\n    ")])])}))}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

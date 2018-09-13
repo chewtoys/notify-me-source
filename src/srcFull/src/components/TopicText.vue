@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return (_vm.i.toLowerCase() === 'youtube')?_c('span',[_c('i',{staticClass:"fab fa-youtube"})]):(_vm.i.toLowerCase() === 'soundcloud')?_c('span',[_c('i',{staticClass:"fab fa-soundcloud"})]):(_vm.i.toLowerCase() === 'twitter')?_c('span',[_c('i',{staticClass:"fab fa-twitter"})]):(_vm.i.toLowerCase() === 'reddit')?_c('span',[_c('i',{staticClass:"fab fa-reddit"})]):(_vm.i.toLowerCase() === 'facebook')?_c('span',[_c('i',{staticClass:"fab fa-facebook"})]):(_vm.i.toLowerCase() === 'instagram')?_c('span',[_c('i',{staticClass:"fab fa-instagram"})]):(_vm.i.toLowerCase() === 'spotify')?_c('span',[_c('i',{staticClass:"fab fa-spotify"})]):(_vm.i.toLowerCase() === 'discord')?_c('span',[_c('i',{staticClass:"fab fa-discord"})]):(_vm.i.toLowerCase() === 'notify')?_c('span',[_vm._v("Notify")]):_c('span',[_vm._v(_vm._s(_vm.i))])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

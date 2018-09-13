@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"setting_content_inner"},[_c('h4',{staticClass:"setting_title"},[_vm._v("Quick Settings")]),_c('SettingToggle',{attrs:{"icon":"lightbulb","value":_vm.darkTheme,"title":"Enable dark theme","desc":"If it were up to me, this would be on by default. But alas, it is up to you kind sir. Press it, you know you want to."},on:{"update:value":function($event){_vm.darkTheme=$event}}}),_c('SettingToggle',{attrs:{"icon":"moon","title":"Silence all notifications","desc":"Need some quiet time? We got you. You won't recieve any notifications when this switch is on."}})],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

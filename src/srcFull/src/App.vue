@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',[_c('alerts',{ref:"alert"}),_c('transition',{attrs:{"name":"slideup"}},[(_vm.bottomAlert)?_c('div',{staticClass:"dark floating_bottom_left",staticStyle:{"background":"none !important"}},[_c('div',{staticClass:"alert alert-primary",attrs:{"role":"alert"}},[_c('div',{staticClass:"dismiss_button",on:{"click":function($event){_vm.hideBottomAlert()}}},[_c('i',{staticClass:"fa fa-times"})]),_vm._v("\n                    Welcome to Notify Alpha. You'll probably find a lot of bugs. So there's that. "),_c('br'),_c('a',{attrs:{"href":"#"},on:{"click":_vm.jeff}},[_vm._v("Find out more.")])])]):_vm._e()]),_c('div',{attrs:{"id":"app"}},[_c('Modal'),_c('Player'),_c('dialogs-wrapper'),_c('router-view')],1)],1)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

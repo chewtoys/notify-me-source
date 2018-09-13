@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"result tooltip_enabled",on:{"click":function($event){_vm.link(_vm.i)}}},[(_vm.i.avatar)?_c('div',{staticClass:"avatar",style:({ 'background-image': 'url(' + _vm.i.avatar + ')' })}):_c('div',{staticClass:"avatar",style:({ 'background-image': 'url(' + _vm.defaultAvatar() + ')' })}),_c('div',{staticClass:"meta"},[_c('div',{staticClass:"display_name"},[_vm._v(_vm._s(_vm.trimmedString(_vm.i.displayName, 20)))]),(_vm.i.verified === 'true')?_c('span',{staticClass:"verified verified_tick"}):_vm._e()]),_c('div',{staticClass:"cool_tooltip"},[_c('div',{staticClass:"display_name"},[_vm._v(_vm._s(_vm.trimmedString(_vm.i.displayName, 20)))]),(_vm.i.verified === 'true')?_c('span',{staticClass:"verified verified_tick"}):_vm._e()])])}
+var staticRenderFns = []
+
+export { render, staticRenderFns }

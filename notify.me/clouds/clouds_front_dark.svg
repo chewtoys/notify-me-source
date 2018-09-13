@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2676px" height="917px" viewBox="0 0 2676 917" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101081295 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -514.000000)" fill="#575F78">
+            <g id="Group-3" filter="url(#filter-1)" transform="translate(-41.000000, 542.000000)">
+                <g id="Group-5">
+                    <rect id="Rectangle-8" x="41" y="176" width="2676" height="685"></rect>
+                    <circle id="Oval" cx="507" cy="270" r="270"></circle>
+                    <circle id="Oval-Copy-6" cx="777" cy="239" r="186"></circle>
+                    <circle id="Oval-Copy-11" cx="186" cy="207" r="186"></circle>
+                    <circle id="Oval-Copy" cx="1962" cy="259" r="207"></circle>
+                    <circle id="Oval-Copy-25" cx="2221" cy="291" r="207"></circle>
+                    <circle id="Oval-Copy-26" cx="2428" cy="269" r="207"></circle>
+                    <circle id="Oval-Copy-30" cx="2717" cy="304" r="207"></circle>
+                    <circle id="Oval-Copy-3" cx="1073" cy="272" r="186"></circle>
+                    <circle id="Oval-Copy-4" cx="1435" cy="341" r="223"></circle>
+                    <circle id="Oval-Copy-5" cx="1379" cy="294" r="223"></circle>
+                    <circle id="Oval-Copy-27" cx="1658" cy="299" r="223"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

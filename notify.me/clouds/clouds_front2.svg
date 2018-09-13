@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2676px" height="1279px" viewBox="0 0 2676 1279" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.101081295 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(0.000000, -540.000000)" fill="#FFFFFF">
+            <g id="Group-6" filter="url(#filter-1)" transform="translate(-399.000000, 568.000000)">
+                <path d="M416,832 C186.249544,832 0,645.750456 0,416 C0,186.249544 186.249544,0 416,0 C558.141706,0 683.632859,71.2894886 758.669516,180.064522 C794.104383,170.246477 831.439501,165 870,165 C967.140108,165 1056.50374,198.295046 1127.30147,254.095706 C1213.51168,173.988901 1329.03485,125 1456,125 C1555.28783,125 1647.57848,154.958546 1724.32552,206.329237 C1790.43452,164.326751 1868.87635,140 1953,140 C2042.76714,140 2126.06456,167.700186 2194.81086,215.019172 C2252.5824,147.669184 2338.30824,105 2434,105 C2498.72643,105 2558.8932,124.522187 2608.93342,157.999665 C2671.60422,99.6759699 2755.63582,64 2848,64 C2874.25656,64 2899.83977,66.8829986 2924.45032,72.3497081 C2960.0668,43.3713022 3005.50476,26 3055,26 C3169.32294,26 3262,118.677057 3262,233 C3262,292.071744 3237.25628,345.364282 3197.56798,383.078469 C3198.51579,393.592177 3199,404.239542 3199,415 C3199,482.448373 3179.97557,545.453353 3147,598.94165 L3147,1223 L416,1223 L416,832 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"setting_content_inner"},[_c('h4',{staticClass:"setting_title"},[_vm._v("Change Log")]),_vm._l((_vm.changes),function(change){return _c('div',{key:change.id,staticClass:"setting_section"},[_c('div',{staticClass:"setting_information"},[_c('div',{staticClass:"setting_item_heading"},[_vm._v(_vm._s(change.heading))]),(change.title)?_c('div',{staticClass:"setting_item_title"},[_vm._v(_vm._s(change.title))]):_vm._e(),_c('div',{staticClass:"setting_desc"},[_vm._v(_vm._s(change.description))])])])})],2)}
+var staticRenderFns = []
+
+export { render, staticRenderFns }
